@@ -15,7 +15,7 @@ Bangle.on('kill', () => {
 function drawScreen() {
   g.clear();
   g.setFont("6x8",2);
-  g.drawString("trueNorth", 10, 30);
+  g.drawString("truenorth", 10, 30);
   g.setFont("6x8",1);
   g.drawString("Buzzes when heading\ncrosses magnetic north", 10, 60);
   g.flip();
