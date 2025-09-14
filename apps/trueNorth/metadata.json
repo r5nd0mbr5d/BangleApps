@@ -1,0 +1,13 @@
+{
+  "id": "trueNorth",
+  "name": "trueNorth",
+  "shortName": "trueNorth",
+  "icon": "app.png",
+  "version": "0.01",
+  "description": "Buzzes when you cross magnetic north.",
+  "tags": "",
+  "supports": ["BANGLEJS2"],
+  "storage": [
+    {"name":"trueNorth.app.js","url":"app.js"}
+  ]
+}
